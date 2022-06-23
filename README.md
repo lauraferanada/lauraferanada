@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lauraferanada 
+- 👀 I’m interested in aprender e programar novas linguagens
+- 🌱 I’m currently learning a programar recentemente a linguagem de javasercript e scretch
